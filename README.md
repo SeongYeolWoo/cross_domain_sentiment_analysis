@@ -13,7 +13,8 @@ NSMC데이터로 모델 학습 후, Steam 게임리뷰 데이터 및 네이버 �
 GRU, LSTM, RNN 모델 구현하여 학습.
 
 Cross Domain 성능
-Steam Data
+# Steam Data
+
 
 GRU: Acc: 0.70, loss: 0.62
 
@@ -21,8 +22,8 @@ LSTM: Acc: 0.71, loss: 0.60
 
 RNN: ACC: 0.68, loss: 0.68
 
-
-Naver Shopping Review Data
+&nbsp;
+# Naver Shopping Review Data
 
 GRU: Acc: 0.77, loss: 0.48
 
